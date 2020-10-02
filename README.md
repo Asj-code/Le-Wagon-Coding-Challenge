@@ -1,6 +1,6 @@
 ## Product Landing Page
  
-> *le Wagon Coding Bootcamp Challenge*  
+> *Le Wagon Coding Bootcamp Challenge*  
 
 ### [Take a look!](https://asj-code.github.io/Le-Wagon-Coding-Challenge/)
 
@@ -14,7 +14,7 @@ It is a landing page created as part of a challenge of 7 days of front-end devel
 :small_orange_diamond:  JavaScript
 
 #### Libraries
-:small_orange_diamon:  Bootstrap 4
+:small_orange_diamond:  Bootstrap 4
 
 #### Resources
 :small_orange_diamond:  Google Fonts

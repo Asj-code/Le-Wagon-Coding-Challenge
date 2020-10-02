@@ -2,7 +2,7 @@
  
 > *Le Wagon Coding Bootcamp Challenge*  
 
-### [Take a look!](https://asj-code.github.io/Le-Wagon-Coding-Challenge/)
+### [Take a look!](https://asj-code.github.io/Product-Landing-Page/)
 
 It is a landing page created as part of a challenge of 7 days of front-end development lessons content. In order to in practice languages like HTML, CSS and JavaScript, I have developed a product landing page in which you can buy plants and supplies related to gardering.
 
